@@ -199,7 +199,7 @@ For production deployment:
 
 ## Author
 
-**Nandan Yeri**
+**Unnathi**
 
 Developed as a medical tourism and patient support platform connecting healthcare services with accommodation and recovery support.
 
